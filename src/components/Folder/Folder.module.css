@@ -1,0 +1,12 @@
+.Folder{
+    position: fixed;
+    max-width: 25%;
+    height: 100%;
+    background-color:gainsboro;
+    padding: 32px 16px;
+}
+
+
+
+  div.itemhover:hover, div.itemhover:active {background: whitesmoke;}
+  

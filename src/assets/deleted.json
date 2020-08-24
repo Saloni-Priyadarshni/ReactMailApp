@@ -1,0 +1,10 @@
+[
+	
+	{
+		"mId": "guid-5",
+		"unread": true,
+		"sender":"saloni@gmail.com",
+		"subject" : "You lost the lottery!",
+		"content" : "You have just lost the New York official lottery. Sorry better luck next time"
+	}
+]

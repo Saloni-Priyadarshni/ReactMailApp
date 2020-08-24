@@ -1,0 +1,14 @@
+.Emails{
+    /* position: fixed;
+    max-width: 40%;
+    height: 100%;
+
+    background-color:white;
+     */
+    
+    max-width: 300px;
+    margin-left: 220px;
+    z-index: 50;
+    box-sizing: border-box;
+    height: 100%;
+}
